@@ -1,0 +1,5 @@
+# AIに読ませたくないファイル（セキュリティと速度のため）
+.env
+.env*.local
+node_modules/
+package-lock.json
