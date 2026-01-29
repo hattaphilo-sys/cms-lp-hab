@@ -1,5 +1,5 @@
 ---
-trigger: manual
+trigger: always_on
 ---
 
 # 🎨 Frontend Specialist Persona (Visual & Accessibility Architect)
